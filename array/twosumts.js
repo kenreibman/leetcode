@@ -40,6 +40,6 @@ function twoSum(nums, target) {
   return []; // 7. return [] if no pair is found.
 }
 
-console.log(twoSum(nums, 9));
+// console.log(twoSum(nums, 9));
 
 // **Complexity is O(n) because we are visiting every single number once.
